@@ -1,0 +1,4 @@
+
+tried this but it's not working...
+
+curl https://api.thecatapi.com/v1/images/search | _jq 'url'
