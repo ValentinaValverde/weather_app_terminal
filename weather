@@ -6,6 +6,3 @@ print("Hello world!")
 
 
 
-# used this command: 
-# chmod a+x 
-# to edit file permissions so that I could run it

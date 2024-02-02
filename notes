@@ -1,4 +1,16 @@
 
 tried this but it's not working...
 
-curl https://api.thecatapi.com/v1/images/search | _jq 'url'
+curl https://api.thecatapi.com/v1/images/search | jq 'url'
+echo https://api.thecatapi.com/v1/images/search | jq 'url'
+
+
+used this command: 
+chmod a+x 
+to edit file permissions so that I could run it
+
+
+type this to run the program:
+python3 (?)
+
+to exit commit message type :wq
