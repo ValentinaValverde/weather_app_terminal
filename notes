@@ -11,6 +11,6 @@ to edit file permissions so that I could run it
 
 
 type this to run the program:
-python3 (?)
+python3 weather
 
-to exit commit message type :wq
+(python3 file_name)
